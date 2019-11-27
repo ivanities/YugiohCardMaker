@@ -1,0 +1,7 @@
+/.idea
+/out
+/test
+/resources
+*.iml
+tmp
+anime_tmp
